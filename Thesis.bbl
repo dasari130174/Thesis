@@ -1,0 +1,292 @@
+\begin{thebibliography}{10}
+
+\bibitem{ia2p}
+Amy~M, Jesse~H, K.~P.
+\newblock 2015.
+\newblock {\em Investigative journalists and digital security: Perception of
+  Vulnerability and Changes in Behavior. PewResearchCenter}.
+\newblock PewResearch Center.
+
+\bibitem{wm4}
+Williams, M.
+\newblock March 2014.
+\newblock Beginner’s guide to improving online security.
+\newblock
+  \url{www.icij.org/blog/2014/03/beginners-guide-improving-online-security }.
+
+\bibitem{furnell2006challenges}
+Furnell, S.~M., Jusoh, A., \& Katsabas, D.
+\newblock 2006.
+\newblock The challenges of understanding and using security: A survey of
+  end-users.
+\newblock {\em Computers \& Security}, 25(1), 27--35.
+
+\bibitem{dingledine2006anonymity}
+Dingledine, R. \& Mathewson, N.
+\newblock 2006.
+\newblock Anonymity loves company: Usability and the network effect.
+\newblock In {\em WEIS}.
+
+\bibitem{pfitzmann2001anonymity}
+Pfitzmann, A. \& K{\"o}hntopp, M.
+\newblock 2001.
+\newblock Anonymity, unobservability, and pseudonymity—a proposal for
+  terminology.
+\newblock In {\em Designing privacy enhancing technologies},  1--9. Springer.
+
+\bibitem{pa3}
+Mikeperry.
+\newblock June 2013.
+\newblock Usability|announcing tor browser bundle 3.0alpha1.
+\newblock \url{https://blog.torproject.org/category/tags/usability}.
+
+\bibitem{sr4}
+WhisperSystems/RedPhone.
+\newblock July 2014.
+\newblock Registration failure leaves user stuck (usability issue).
+\newblock \url{https://github.com/WhisperSystems/RedPhone/issues/183}.
+
+\bibitem{ti4}
+WhisperSystems/TextSecure.
+\newblock February 2014.
+\newblock Improve usability / look of contacts list.
+\newblock \url{ https://github.com/WhisperSystems/TextSecure/issues/741}.
+
+\bibitem{kobeissi2013cryptocat}
+Kobeissi, N. \& Breault, A.
+\newblock 2013.
+\newblock Cryptocat: Adopting accessibility and ease of use as security
+  properties.
+\newblock {\em arXiv preprint arXiv:1306.5156}.
+
+\bibitem{Ijnet14}
+Looney, M.
+\newblock January 2013.
+\newblock Four things investigative journalism is not.
+\newblock \url{www.ijnet.org/en/blog/four-things-investigative-journalism-not}.
+
+\bibitem{whitten1999johnny}
+Whitten, A. \& Tygar, J.~D.
+\newblock 1999.
+\newblock Why johnny can't encrypt: A usability evaluation of pgp 5.0.
+\newblock In {\em Usenix Security}, volume 1999.
+
+\bibitem{clark2007usability}
+Clark, J., Van~Oorschot, P.~C., \& Adams, C.
+\newblock 2007.
+\newblock Usability of anonymous web browsing: an examination of tor interfaces
+  and deployability.
+\newblock In {\em Proceedings of the 3rd symposium on Usable privacy and
+  security},  41--51. ACM.
+
+\bibitem{katsabas2005using}
+Katsabas, D., Furnell, S., \& Dowland, P.
+\newblock 2005.
+\newblock Using human computer interaction principles to promote usable
+  security.
+
+\bibitem{sasse2005usable}
+Sasse, M.~A. \& Flechais, I.
+\newblock 2005.
+\newblock Usable security: Why do we need it? how do we get it?
+
+\bibitem{saltzer1975protection}
+Saltzer, J.~H. \& Schroeder, M.~D.
+\newblock 1975.
+\newblock The protection of information in computer systems.
+\newblock {\em Proceedings of the IEEE}, 63(9), 1278--1308.
+
+\bibitem{weinschenk2011100}
+Weinschenk, S.
+\newblock 2011.
+\newblock {\em 100 things every designer needs to know about people}.
+\newblock Pearson Education.
+
+\bibitem{brodie2005usable}
+Brodie, C., Karat, C.-M., Karat, J., \& Feng, J.
+\newblock 2005.
+\newblock Usable security and privacy: a case study of developing privacy
+  management tools.
+\newblock In {\em Proceedings of the 2005 symposium on Usable privacy and
+  security},  35--43. ACM.
+
+\bibitem{baecker2014readings}
+Baecker, R.~M.
+\newblock 2014.
+\newblock {\em Readings in Human-Computer Interaction: toward the year 2000}.
+\newblock Morgan Kaufmann.
+
+\bibitem{chiasson2006usability}
+Chiasson, S., van Oorschot, P.~C., \& Biddle, R.
+\newblock 2006.
+\newblock A usability study and critique of two password managers.
+\newblock In {\em Usenix Security}, volume~6.
+
+\bibitem{karat2005usability}
+Karat, C.-M., Brodie, C., \& Karat, J.
+\newblock 2005.
+\newblock Usability design and evaluation for privacy and security solutions.
+\newblock {\em Security and Usability},  47--74.
+
+\bibitem{reagle1999platform}
+Reagle, J. \& Cranor, L.~F.
+\newblock 1999.
+\newblock The platform for privacy preferences.
+\newblock {\em Communications of the ACM}, 42(2), 48--55.
+
+\bibitem{wharton1994cognitive}
+Wharton, C., Rieman, J., Lewis, C., \& Polson, P.
+\newblock 1994.
+\newblock The cognitive walkthrough method: A practitioner's guide.
+\newblock In {\em Usability inspection methods},  105--140. John Wiley \& Sons,
+  Inc.
+
+\bibitem{johnston2003security}
+Johnston, J., Eloff, J.~H., \& Labuschagne, L.
+\newblock 2003.
+\newblock Security and human computer interfaces.
+\newblock {\em Computers \& Security}, 22(8), 675--684.
+
+\bibitem{defleur2013computer}
+DeFleur, M.~H.
+\newblock 2013.
+\newblock {\em Computer-assisted investigative reporting: development and
+  methodology}.
+\newblock Routledge.
+
+\bibitem{kawamoto2003digital}
+Kawamoto, K.
+\newblock 2003.
+\newblock {\em Digital journalism: Emerging media and the changing horizons of
+  journalism}.
+\newblock Rowman \& Littlefield Publishers.
+
+\bibitem{5oxford2009}
+Oxford, T.
+\newblock 2009.
+\newblock 8 technologies to thank the 1980s for.
+\newblock
+  \url{http://www.techradar.com/news/world-of-tech/8-technologies-to-thank-the-1980s-for-635764}.
+
+\bibitem{kaul2013journalism}
+Kaul, V.
+\newblock 2013.
+\newblock Journalism in the age of digital technology.
+\newblock {\em Online Journal of Communication \& Media Technologies}, 3(1).
+
+\bibitem{flew2012promise}
+Flew, T., Spurgeon, C., Daniel, A., \& Swift, A.
+\newblock 2012.
+\newblock The promise of computational journalism.
+\newblock {\em Journalism Practice}, 6(2), 157--171.
+
+\bibitem{hamilton2009accountability}
+Hamilton, J.~T. \& Turner, F.
+\newblock 2009.
+\newblock Accountability through algorithm: developing the field of
+  computational journalism.
+\newblock In {\em A Center for Advanced Study in the Behavioral Sciences Summer
+  Workshop. Duke University in association with Stanford University},  27--31.
+
+\bibitem{diakopoulos2010diamonds}
+Diakopoulos, N., Naaman, M., \& Kivran-Swaine, F.
+\newblock 2010.
+\newblock Diamonds in the rough: Social media visual analytics for journalistic
+  inquiry.
+\newblock In {\em Visual Analytics Science and Technology (VAST), 2010 IEEE
+  Symposium on},  115--122. IEEE.
+
+\bibitem{lewis2013open}
+Lewis, S.~C. \& Usher, N.
+\newblock 2013.
+\newblock Open source and journalism: toward new frameworks for imagining news
+  innovation.
+\newblock {\em Media, Culture \& Society}, 35(5), 602--619.
+
+\bibitem{steensen2011online}
+Steensen, S.
+\newblock 2011.
+\newblock Online journalism and the promises of new technology: a critical
+  review and look ahead.
+\newblock {\em Journalism Studies}, 12(3), 311--327.
+
+\bibitem{van2012future}
+Van~der Haak, B., Parks, M., \& Castells, M.
+\newblock 2012.
+\newblock The future of journalism: Networked journalism.
+\newblock {\em International Journal of Communication}, 6, 16.
+
+\bibitem{mosco2004digital}
+Mosco, V.
+\newblock 2004.
+\newblock {\em The digital sublime: Myth, power, and cyberspace}.
+\newblock MIT Press.
+
+\bibitem{3media2014}
+Media.illinois.edu.
+\newblock 2014.
+\newblock Illinois college of media public service knight chair.
+\newblock
+  \url{http://www.media.illinois.edu/knight/knight-foundation-support-of-investigative-reporti}.
+
+\bibitem{ottosen2012digital}
+Ottosen, R. \& Krumsvik, A.~H.
+\newblock 2012.
+\newblock Digital challenges on the norwegian media scene.
+\newblock {\em Nordicom Review}, 33(2), 43--55.
+
+\bibitem{de2008investigative}
+De~Burgh, H.
+\newblock 2008.
+\newblock {\em Investigative journalism}.
+\newblock Routledge.
+
+\bibitem{gf9}
+Franco, G.
+\newblock 2009.
+\newblock The impact of diital technology on journalism and democracy in latin
+  america and the caribbean.
+
+\bibitem{knight2001online}
+Knight, A.
+\newblock 2001.
+\newblock Online investigative journalism.
+\newblock {\em Retrieved May}, 25, 2011.
+
+\bibitem{si4}
+Silkie~Carlo, A.~K.
+\newblock November 2014.
+\newblock {\em Information Security for Journalists; Protecting your story,
+  your source and yourself online}.
+\newblock \url{http://www.tcij.org/node/1016}.
+
+\bibitem{lazar2010research}
+Lazar, J., Feng, J.~H., \& Hochheiser, H.
+\newblock 2010.
+\newblock {\em Research methods in human-computer interaction}.
+\newblock John Wiley \& Sons.
+
+\bibitem{1_holtzblatt_2014}
+Holtzblatt, K.
+\newblock 2014.
+\newblock Contextual design.
+\newblock {\em The Encyclopedia of Human-Computer Interaction, 2nd Ed.}
+\newblock
+  \url{https://www.interaction-design.org/encyclopedia/contextual_design.html}.
+
+\bibitem{4nielsen2014}
+NIELSEN, J.
+\newblock 2014.
+\newblock Why you only need to test with 5 users.
+\newblock
+  \url{http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/}.
+
+\bibitem{2_hudson_2014}
+Hudson, W.
+\newblock 2014.
+\newblock Card sorting.
+\newblock {\em The Encyclopedia of Human-Computer Interaction, 2nd Ed.}
+\newblock
+  \url{https://www.interaction-design.org/encyclopedia/card_sorting.html}.
+
+\end{thebibliography}
